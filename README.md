@@ -3,7 +3,7 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 [![buymeacoffee_badge](https://img.shields.io/badge/Donate-Buymeacoffee-orange?style=for-the-badge)](https://www.buymeacoffee.com/Deejayfool)
 
-This card allows to open, close or set a shutter to the opening rate you want.
+This card allows to open, close or set a shutter (venetian blind) to the opening rate you want. Tilt function included.
 
 ![Shutter card](https://raw.githubusercontent.com/dlupsa/hass-shutter-card/master/images/sc_shutter.png)
 
