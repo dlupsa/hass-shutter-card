@@ -5,7 +5,7 @@
 
 This card allows to open, close or set a shutter to the opening rate you want.
 
-![Shutter card](https://raw.githubusercontent.com/Deejayfool/hass-shutter-card/master/images/shutter-card.gif)
+![Shutter card](https://raw.githubusercontent.com/dlupsa/hass-shutter-card/master/images/sc_shutter.png)
 
 ## Configuration
 
